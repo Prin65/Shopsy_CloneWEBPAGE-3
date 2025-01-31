@@ -57,8 +57,8 @@ i{
     background-color: rgb(255, 255, 255);
 }
 .category{
-    text-align: center;
-    border-radius: 50%;
+    /* text-align: center; */
+    /* border-radius: 50%; */
     height: 60px;
     width: 60px;
     position: relative;
@@ -67,35 +67,35 @@ i{
 }
 .category-1{
     background-size: cover;
-    background-image:url("womencategory.webp");
+    background-image:url("/WEBPAGE-3/web3image/womencategory.webp");
 }
 .category-2{
     background-size: cover;
-    background-image:url("mencategory.webp");
+    background-image:url("/WEBPAGE-3/web3image/mencategory.webp");
 }
 .category-3{
     background-size: cover;
-    background-image: url("kidscategory.webp");
+    background-image: url("/WEBPAGE-3/web3image/kidscategory.webp");
 }
 .category-4{
     background-size: cover;
-    background-image: url("shoes.webp");
+    background-image: url("/WEBPAGE-3/web3image/shoes.webp");
 }
 .category-5{
     background-size: cover;
-    background-image: url("makeup.webp");
+    background-image: url("/WEBPAGE-3/web3image/makeup.webp");
 }
 .category-6{
     background-size: cover;
-    background-image: url("accessories.webp");
+    background-image: url("/WEBPAGE-3/web3image/accessories.webp");
 }
 .category-7{
     background-size: cover;
-    background-image: url("homedecore.webp");
+    background-image: url("/WEBPAGE-3/web3image/homedecore.webp");
 }
 .category-8{
     background-size: cover;
-    background-image: url("homefurnishing.webp");
+    background-image: url("/WEBPAGE-3/web3image/homefurnishing.webp");
 }
 .category-content-main{
     display: flex;
